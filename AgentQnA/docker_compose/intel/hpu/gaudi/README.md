@@ -49,6 +49,7 @@ export HF_TOKEN="Your_HuggingFace_API_Token"  # the huggingface API token you ap
 export http_proxy="Your_HTTP_Proxy"           # http proxy if any
 export https_proxy="Your_HTTPs_Proxy"         # https proxy if any
 export no_proxy=localhost,127.0.0.1,$host_ip  # additional no proxies if needed
+export MCP_SERVER_URL="Your_MCP_Server_URL"
 ```
 
 #### [Optional] OPENAI_API_KEY to use OpenAI models or Intel® AI for Enterprise Inference
